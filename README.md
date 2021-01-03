@@ -47,7 +47,7 @@ mount c: ~\OLDGAMES
 c:
 ```
 
-## Copy [binaries](https://github.com/piotrborek/gra3d/blob/main/files/gra3d-bin.zip) into OLDGAMES folder and extract it.
+## Copy [binaries](https://github.com/piotrborek/gra3d/raw/main/files/gra3d-bin.zip) into OLDGAMES folder and extract it.
 
 ## Run dosbox and the game.
 
